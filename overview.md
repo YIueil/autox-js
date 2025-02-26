@@ -59,14 +59,5 @@ AutoX.js 使用 JavaScript 作为脚本语言，目前使用 [Rhino 1.7.13](http
 除此之外，AutoX.js 内置了对 [Promise](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise) 的支持。
 
 
-# 参与共建
-
-[软件源码](https://github.com/kkevsekk1/AutoX)
-
-[文档源码](https://github.com/kkevsekk1/AutoXJs-Docs)
-
-本文档更新稍有滞后，某些模块文档并没写完，希望有开发者共同参与维护！
-
-不用担心你不懂，我们可以讨论交流! 
-
-欢迎大家 PR ，共同参与开源！
+# ~~参与共建~~
+~~目前低调使用即可。~~
