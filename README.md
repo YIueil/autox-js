@@ -1,6 +1,6 @@
 # AutoX.js 文档
 
-地址 : http://doc.autoxjs.com/
+地址 : https://yiueil.github.io/autox-js/#/
 
 
 使用 [Docsify](https://github.com/docsifyjs/docsify/) 构建；就是将markdown转为静态网站。
